@@ -32,7 +32,7 @@ Execute the program using runserver command.
     <body>
        <img src="/static/logo.png" height="100" width="540">
         <h1>SLOT TIME TABLE-YASHVANDAN(25017523)</h1>
-        <table border="4">
+        <table border="4" align="centre">
             <tr bgcolor="green">
                 <th>Day/Time</th>
                 <th>Monday</th>
