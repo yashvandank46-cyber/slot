@@ -24,7 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
+```
 <html>
     <head>
         <title>SLOT TIME TABLE-YASHVANDAN-(25017523)</title>
@@ -111,7 +111,7 @@ Execute the program using runserver command.
         </table>
     </head>
 </html>
-'''
+```
 
 ## OUTPUT
 ![alt text](Screenshot_20-9-2025_12310_127.0.0.1-1.jpeg)
